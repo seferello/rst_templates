@@ -1,43 +1,46 @@
 The Fulbright Application Process
 #####################################
 `Fulbright Website <https://us.fulbrightonline.org>`_
+
 The following site aims to give an overview and procedures for applying for a U.S. Fulbright Scholarhsip. 
 
 In this site you will find:
-#. Application Sections
-* Essays
-* References
-* Short Essays
-* Personal Info
-* Documents
+
+#. App Navigation
 #. Timelines
 #. Essay Guides
+#. Language Prep
 #. Action Lists
 
+By the end you will be able to:
 
-
-
+* Know the right steps to take to start your application
+* Successfully navigate the application portal
+* Put your best foot forward!
 
 Included below is an example of my HTML work:
 .. code-block:: HTML
 
-    markup
+markup
     
- *************
- Timeline
- *************
+
+Timeline
+********
  
-.. list-table::
+.. list-table:Timeline:
    :widths: 25 25 50
    :header-rows: 1
 
-=====  =====  ======= 
+=========  ========  ======= 
  Fulbright Timeline
-------------  ------- 
- Date  Task   Product
-=====  =====  =======
-False  False  False 
-True   False  True 
-False  True   True 
-True   True   True 
-=====  =====  =======
+----------------------------
+ Date      Task      Product
+=========  ========  =======
+June       False     False 
+July       False     True 
+September  True      True 
+October    True      True 
+=========  ========  =======
+
+The key to a successful application to thoughtul preparation at the right times.
+ 
