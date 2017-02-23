@@ -1,2 +1,38 @@
-Introduction: Security at MorphoTrust
+The Fulbright Application Process
 #####################################
+
+The following site aims to give an overview and procedures for applying for a U.S. Fulbright Scholarhsip. 
+
+In this site you will find:
+#. Application Sections
+#. Timelines
+#. Essay Guides
+#. Action Lists
+
+
+
+
+
+Included below is an example of my HTML work:
+.. code-block:: HTML
+
+    markup
+    
+ *************
+ Timeline
+ *************
+ 
+.. list-table::
+   :widths: 25 25 50
+   :header-rows: 1
+
+=====  =====  ======= 
+ Fulbright Timeline
+------------  ------- 
+ Date  Task   Product
+=====  =====  =======
+False  False  False 
+True   False  True 
+False  True   True 
+True   True   True 
+=====  =====  =======
