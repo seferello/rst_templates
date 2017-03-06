@@ -1,23 +1,23 @@
-The Fulbright Application Process
+Competitive Analysis and FOIA Procedures
 #####################################
 Visit the site here: `Fulbright Website <https://us.fulbrightonline.org>`_
 .. image:: logo.png
   :width: 400
   :alt: Fulbright Logo
-The following site aims to give an overview and procedures for applying for a U.S. Fulbright Scholarhsip. 
+The following site aims to give an overview and procedures for entering a FOIA request, analysing resulting competitor data, and applying "lessons learned" for future use. 
 
 In this site you will find:
 
-#. App Navigation
-#. Timelines
-#. Essay Guides
-#. Language Prep
-#. Action Lists
+#. What is FOIA?
+#. FOIA Request Procedures
+#. FOIA Storage Procedures
+#. Guidelines for content analysis
+#. Task-list for "Lessons Learned"
 
 By the end you will be able to:
 
-* Know the right steps to take to start your application
-* Successfully navigate the application portal
+* Know the right steps to procure FOIA information
+* Successfully analyse bid scoring and FOIA documents
 * Put your best foot forward!
 
 Included below is an example of my HTML work:
@@ -34,7 +34,7 @@ Timeline
    :header-rows: 1
 
 =========  ========  ======= 
- Fulbright Timeline
+ FOIA Timeline
 ----------------------------
  Date      Task      Product
 =========  ========  =======
@@ -44,5 +44,5 @@ September  True      True
 October    True      True 
 =========  ========  =======
 
-The key to a successful application to thoughtul preparation at the right times.
+The key to applying FOIA information successfully is to create timely and repeatable procedures!
  
